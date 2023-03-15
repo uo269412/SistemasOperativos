@@ -1,0 +1,6 @@
+10
+0
+NOP
+ADD 10 -13
+WRITE 11
+HALT

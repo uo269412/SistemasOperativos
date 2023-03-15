@@ -1,0 +1,6 @@
+30
+5
+NOP
+IRET
+WRITE 15
+HALT

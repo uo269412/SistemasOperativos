@@ -1,0 +1,6 @@
+30
+5
+NOP
+DIV 10 0
+WRITE 15
+HALT

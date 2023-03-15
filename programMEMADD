@@ -1,0 +1,6 @@
+30
+5
+ADD 4 0 //we get the value 4
+WRITE 15 //we store it in memory position 15
+MEMADD 12 15 //we add 12 to the value in the memory position 15 (4); 12 + 4 = 16
+HALT
